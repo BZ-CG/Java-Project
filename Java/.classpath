@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.39-bin.jar" sourcepath="E:/常用的一些jar包/JDBC源码/mysql-connector-java-5.1.45.zip"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.9.3.jar" sourcepath="E:/常用的一些jar包/BeanUtils/commons-beanutils-1.9.3-src.zip"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool2-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp2-2.2.0.jar" sourcepath="E:/常用的一些jar包/数据库连接池/commons-dbcp2-2.2.0-src.zip"/>
+	<classpathentry kind="lib" path="lib/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbutils-1.7.jar" sourcepath="E:/常用的一些jar包/数据库工具包/DBUtils/commons-dbutils-1.7-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
